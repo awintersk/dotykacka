@@ -8,12 +8,12 @@ To use this addon it is necessary to have a valid subscription to the Dotykacka 
 
 🌟 Key Features:
 
-Synchronize products between Odoo and Dotykacka POS.
-Handle multi-POS configurations.
-Multi-company support.
-Asynchronous communication with Dotykacka API.
-Support for returns and refunds.
-Fiscalization is done on the Dotykacka side.
+- Synchronize products between Odoo and Dotykacka POS.
+- Handle multi-POS configurations.
+- Multi-company support.
+- Asynchronous communication with Dotykacka API.
+- Support for returns and refunds.
+- Fiscalization is done on the Dotykacka side.
 
 🖍 Limitations:
 
